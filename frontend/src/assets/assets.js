@@ -11,6 +11,8 @@ import quality_icon from './quality_icon.svg'
 import support_icon from './support_icon.svg'
 import dropdown_icon from './dropdown_icon.svg'
 import cross_icon from './cross_icon.svg'
+import star_icon from './star_icon.svg'
+import stardull_icon from './stardull_icon.svg'
 
 
 import pic1 from './pic1.jpg'
@@ -58,6 +60,8 @@ export const assets={
     support_icon,
     dropdown_icon,
     cross_icon,
+    star_icon,
+    stardull_icon,
 }
 
 
@@ -67,7 +71,7 @@ export const products=[
         name: "Women Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
         price: 100,
-        image: [pic1],
+        image: [pic1,pic5,pic6,pic7],
         category: "Women",
         subCategory: "Topwear",
         sizes: ["S","M","L"],
