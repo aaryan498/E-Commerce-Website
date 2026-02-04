@@ -9,6 +9,8 @@ import hero_img1 from './hero_img1.jpg'
 import exchange_icon from './exchange_icon.svg'
 import quality_icon from './quality_icon.svg'
 import support_icon from './support_icon.svg'
+import dropdown_icon from './dropdown_icon.svg'
+import cross_icon from './cross_icon.svg'
 
 
 import pic1 from './pic1.jpg'
@@ -54,6 +56,8 @@ export const assets={
     exchange_icon,
     quality_icon,
     support_icon,
+    dropdown_icon,
+    cross_icon,
 }
 
 
@@ -76,7 +80,7 @@ export const products=[
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
         price: 100,
         image: [pic2],
-        category: "Women",
+        category: "Men",
         subCategory: "Topwear",
         sizes: ["S","M","L"],
         date: 1716634345448,
@@ -88,7 +92,7 @@ export const products=[
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
         price: 100,
         image: [pic3],
-        category: "Women",
+        category: "Men",
         subCategory: "Topwear",
         sizes: ["S","M","L"],
         date: 1716634345448,
@@ -100,7 +104,7 @@ export const products=[
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
         price: 100,
         image: [pic4],
-        category: "Women",
+        category: "Men",
         subCategory: "Topwear",
         sizes: ["S","M","L"],
         date: 1716634345448,
@@ -125,7 +129,7 @@ export const products=[
         price: 100,
         image: [pic6],
         category: "Women",
-        subCategory: "Topwear",
+        subCategory: "Bottomwear",
         sizes: ["S","M","L"],
         date: 1716634345448,
         bestseller: false
@@ -204,7 +208,7 @@ export const products=[
     },
     {
         _id: "aaaaa13",
-        name: "Women Round Neck Cotton Top",
+        name: "Aaryan Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
         price: 100,
         image: [pic13],
@@ -216,7 +220,7 @@ export const products=[
     },
     {
         _id: "aaaaa14",
-        name: "Women Round Neck Cotton Top",
+        name: "Ritu Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
         price: 100,
         image: [pic14],
@@ -328,7 +332,7 @@ export const products=[
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
         price: 100,
         image: [pic23],
-        category: "Women",
+        category: "Kids",
         subCategory: "Topwear",
         sizes: ["S","M","L"],
         date: 1716634345448,
@@ -338,10 +342,10 @@ export const products=[
         _id: "aaaaa24",
         name: "Women Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
-        price: 100,
+        price: 1000,
         image: [pic24],
-        category: "Women",
-        subCategory: "Topwear",
+        category: "Kids",
+        subCategory: "Winterwear",
         sizes: ["S","M","L"],
         date: 1716634345448,
         bestseller: true
@@ -350,7 +354,7 @@ export const products=[
         _id: "aaaaa25",
         name: "Women Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
-        price: 100,
+        price: 199,
         image: [pic25],
         category: "Women",
         subCategory: "Topwear",
@@ -386,7 +390,7 @@ export const products=[
         _id: "aaaaa28",
         name: "Women Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
-        price: 100,
+        price: 89,
         image: [pic28],
         category: "Women",
         subCategory: "Topwear",
@@ -398,7 +402,7 @@ export const products=[
         _id: "aaaaa29",
         name: "Women Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
-        price: 100,
+        price: 22,
         image: [pic29],
         category: "Women",
         subCategory: "Topwear",
@@ -410,10 +414,10 @@ export const products=[
         _id: "aaaaa30",
         name: "Women Round Neck Cotton Top",
         description: "A lightweight, ususally knitted, pullover shirt, close-fitting.",
-        price: 100,
+        price: 997,
         image: [pic30],
         category: "Women",
-        subCategory: "Topwear",
+        subCategory: "Bottomwear",
         sizes: ["S","M","L"],
         date: 1716634345448,
         bestseller: true
