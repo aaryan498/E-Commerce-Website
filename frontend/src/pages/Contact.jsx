@@ -10,7 +10,7 @@ const Contact = () => {
         <Title text1={'CONTACT'} text2={'US'}/>
       </div>
       <div className='my-10 flex flex-col justify-center md:flex-row gap-10 mb-28'>
-        <img className='w-full md:max-w-[480px] border' src={assets.contact} alt="" />
+        <img className='w-full md:max-w-[480px] rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300' src={assets.contact} alt="" />
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
           <p className='text-gray-500'>27th KM Stone, Delhi-Hapur Bypass Road, <br />Adhyatmik Nagar, Ghaziabad - 201009, <br />Uttar Pradesh, India</p>
