@@ -13,6 +13,7 @@ import dropdown_icon from './dropdown_icon.svg'
 import cross_icon from './cross_icon.svg'
 import star_icon from './star_icon.svg'
 import stardull_icon from './stardull_icon.svg'
+import bin_icon from './bin_icon.svg'
 
 
 import pic1 from './pic1.jpg'
@@ -62,6 +63,7 @@ export const assets={
     cross_icon,
     star_icon,
     stardull_icon,
+    bin_icon,
 }
 
 
