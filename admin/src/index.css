@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Basic:wght@100..400&display=swap');
+@import "tailwindcss";
+
+
+.active{
+  background-color: #ffebf5;
+  border-color: #C586A5;
+}
+
+*{
+    font-family: Playwrite New Zealand Basic;
+}
+
+select, input, textarea{
+  border: 1px solid #c2c2c2;
+  outline-color: #C586A5;
+  border-radius: 4px;
+}
