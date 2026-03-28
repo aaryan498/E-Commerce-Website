@@ -14,8 +14,8 @@ It is designed with a focus on **performance, modular backend design, and seamle
 
 ## 🔗 Links
 
-* 🟢 **Live App** → (add your deployed link)
-* 💻 **GitHub Repository** → (add your repo link)
+* 🟢 **Live App** → https://cobra-lite.vercel.app
+* 💻 **GitHub Repository** → https://github.com/aaryan498/E-Commerce-Website.git
 * 🔗 **LinkedIn** → https://www.linkedin.com/in/aaryan-kumar-ai-498-coder/
 
 ---
